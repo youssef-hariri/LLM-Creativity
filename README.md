@@ -13,9 +13,8 @@ The files are organized into three categories:
 
 ## 📜 The Paper
 
-* **`Link will be available soon**
-    *
-
+* ** `business_problems_data.json Measuring and Explaining Creativity in LLMs - Hariri Youssef.pdf` **
+    
 ---
 
 ## 1. Input Data
@@ -64,6 +63,15 @@ This folder shows the iterative refinement of the prompt used to *evaluate* the 
 ---
 
 ## How to Cite
-
-This section will be filled soon...
+```bibtex
+@software{youssef_hariri_2025_17407392,
+  author       = {Hariri, Youssef},
+  title        = {Measuring and Explaining Creativity in Large Language Models: A Mixed-Methods Investigation into the Effect of Cultural Persona Prompts on Business Solution Generation},
+  month        = oct,
+  year         = 2025,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.17407392},
+  url          = {https://doi.org/10.5281/zenodo.17407392}
+}
 ```
