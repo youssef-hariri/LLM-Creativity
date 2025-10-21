@@ -1,6 +1,6 @@
 
 # Measuring and Explaining Creativity in Large Language Models: A Mixed-Methods Investigation into the Effect of Cultural Persona Prompts on Business Solution Generation - Youssef Hariri - Doctoral student in Business of AI - Rennes School of Business and UpGrad
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17407393-blue)](https://doi.org/10.5281/zenodo.17407393)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17407392-blue)](https://doi.org/10.5281/zenodo.17407392)
 
 This repository contains the data, prompts, and results for the research paper: *"Measuring and Explaining Creativity in Large Language Models: A Mixed-Methods Investigation into the Effect of Cultural Persona Prompts on Business Solution Generation* (soon to be available online).
 
