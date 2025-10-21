@@ -1,0 +1,107 @@
+{
+    "Business_Problem_13": {
+        "id": "Business_Problem_13",
+        "name": "Public_Relations_Crisis_Management",
+        "original_title": "Public Relations Crisis Management",
+        "background_context": "A global consumer brand has recently faced negative public reaction in a specific international market due to an advertising campaign that was intended to be humorous but was interpreted as insensitive and disrespectful based on local cultural values. The brand needs to respond quickly and effectively.",
+        "business_problem": "Outline a strategy for managing a public relations crisis in an international market caused by a cultural misunderstanding in a marketing campaign and suggest steps to restore the brand's reputation."
+    },
+    "Business_Problem_7": {
+        "id": "Business_Problem_7",
+        "name": "Negotiation_Strategy",
+        "original_title": "Negotiation Strategy",
+        "background_context": "A company is seeking to form a strategic partnership through a joint venture with a potential partner company located in a different country. Initial interactions suggest that the negotiation process may involve different communication styles and expectations compared to previous experiences.",
+        "business_problem": "Outline a negotiation strategy for establishing a joint venture with a company from a different country, considering potential differences in communication styles, decision-making processes, and relationship-building approaches."
+    },
+    "Business_Problem_6": {
+        "id": "Business_Problem_6",
+        "name": "Ethical_Marketing_Campaign",
+        "original_title": "Ethical Marketing Campaign",
+        "background_context": "A company producing health and wellness products is planning a new marketing campaign to promote a recently launched dietary supplement. The campaign needs to be developed for a specific market with unique social values and beliefs related to health, well-being, and advertising.",
+        "business_problem": "Design an ethical and effective marketing campaign for a health supplement targeting a specific international market, taking into account local social values, beliefs, and advertising norms."
+    },
+    "Business_Problem_12": {
+        "id": "Business_Problem_12",
+        "name": "Sustainable_Tourism_Development",
+        "original_title": "Sustainable Tourism Development",
+        "background_context": "A government tourism agency in a region with significant natural beauty and historical sites wants to develop its tourism industry to attract more international visitors. A key goal is to ensure that tourism growth is environmentally sustainable and benefits local communities while preserving cultural heritage.",
+        "business_problem": "Propose a plan for developing sustainable tourism in a region, focusing on attracting international visitors while protecting the environment, respecting local culture, and providing economic benefits to the community."
+    },
+    "Business_Problem_15": {
+        "id": "Business_Problem_15",
+        "name": "Future_of_Work",
+        "original_title": "Future of Work",
+        "background_context": "Following a period of significant change, a large international company is re-evaluating its approach to where and how its employees work, including considerations for remote work, office spaces, and team collaboration tools. The goal is to create a flexible and effective work environment for employees worldwide.",
+        "business_problem": "Propose a framework or set of principles for designing the \"future of work\" within a global company, taking into account the varied needs, preferences, and cultural expectations of employees in different countries."
+    },
+    "Business_Problem_1": {
+        "id": "Business_Problem_1",
+        "name": "Market_Entry_Strategy",
+        "original_title": "Market Entry Strategy",
+        "background_context": "A mid-sized company specializing in environmentally friendly clothing has established a strong presence in Western European markets. They are now looking to expand their business into a new geographical region to access new customer segments and manufacturing opportunities.",
+        "business_problem": "Propose a comprehensive strategy for entering and establishing a presence in a new international market. Consider product positioning, marketing channels, and initial operational steps."
+    },
+    "Business_Problem_14": {
+        "id": "Business_Problem_14",
+        "name": "Designing_Inclusive_Products/Services",
+        "original_title": "Designing Inclusive Products/Services",
+        "background_context": "A technology company is in the process of designing a new digital product that is intended for a global user base. The company wants to ensure that the product is inclusive and accessible to people from diverse cultural backgrounds and does not inadvertently exclude or offend any user groups.",
+        "business_problem": "Suggest features, design considerations, and content guidelines for a new digital product to ensure it is inclusive and respectful of diverse cultural backgrounds among its global users."
+    },
+    "Business_Problem_3": {
+        "id": "Business_Problem_3",
+        "name": "Innovative_Customer_Service",
+        "original_title": "Innovative Customer Service",
+        "background_context": "An online retail company wants to enhance its customer service operations to increase customer satisfaction and loyalty in a specific regional market where recent feedback indicates that current support methods are not fully meeting customer expectations.",
+        "business_problem": "Suggest innovative approaches and improvements for customer service in a regional market to increase customer satisfaction and build stronger customer relationships."
+    },
+    "Business_Problem_2": {
+        "id": "Business_Problem_2",
+        "name": "Cross_Cultural_Team_Collaboration",
+        "original_title": "Cross-Cultural Team Collaboration",
+        "background_context": "A multinational technology company operates with project teams whose members are geographically distributed across several continents. These teams are experiencing communication delays and occasional misunderstandings, impacting project timelines and team cohesion.",
+        "business_problem": "Develop strategies and best practices to improve communication, foster better collaboration, and resolve conflicts effectively within geographically dispersed, culturally diverse project teams."
+    },
+    "Business_Problem_9": {
+        "id": "Business_Problem_9",
+        "name": "Managing_Innovation",
+        "original_title": "Managing Innovation",
+        "background_context": "An established company aims to become more innovative and responsive to market changes. They want to encourage employees across all their international branches to contribute new ideas and experiment with novel approaches, but the level of proactive innovation varies significantly by location.",
+        "business_problem": "Suggest strategies for fostering a more innovative culture and encouraging employee creativity and risk-taking within an international company with offices in different countries."
+    },
+    "Business_Problem_5": {
+        "id": "Business_Problem_5",
+        "name": "Adapting_Leadership_Styles",
+        "original_title": "Adapting Leadership Styles",
+        "background_context": "A large international corporation is rolling out a new global initiative focused on empowering employees and fostering a more adaptable organizational culture. The success of this initiative depends on effective leadership across all regional offices.",
+        "business_problem": "Provide guidance on how leadership and management approaches can be effectively adapted and applied in different international regions to support a global initiative focused on employee empowerment and cultural change."
+    },
+    "Business_Problem_11": {
+        "id": "Business_Problem_11",
+        "name": "Adapting_Educational_Technology",
+        "original_title": "Adapting Educational Technology",
+        "background_context": "A company provides an online platform and digital content for K-12 education. They are planning to introduce their services into a new country with a different educational system structure, pedagogical traditions, and technological infrastructure compared to their current markets.",
+        "business_problem": "Suggest ways to adapt an online educational technology platform and its content to be effective and well-received in a new international market with a different educational system and teaching methods."
+    },
+    "Business_Problem_10": {
+        "id": "Business_Problem_10",
+        "name": "Talent_Management_and_Motivation",
+        "original_title": "Talent Management and Motivation",
+        "background_context": "A global company employs a diverse workforce spanning numerous countries and cultural backgrounds. The human resources department is seeking to develop talent management and employee motivation programs that are effective and perceived as fair and engaging by employees in all locations.",
+        "business_problem": "Design approaches for talent management and employee motivation that can be successfully implemented and resonate with a culturally diverse global workforce."
+    },
+    "Business_Problem_4": {
+        "id": "Business_Problem_4",
+        "name": "Product_Development_for_a_New_Market",
+        "original_title": "Product Development for a New Market",
+        "background_context": "A company that develops and sells snack foods is planning to introduce a new product line specifically tailored for consumers in a target international market with distinct local tastes and eating habits. Market research indicates a demand for new and interesting snack options.",
+        "business_problem": "Generate ideas for a new snack product line specifically designed for a target international market, considering local taste preferences, ingredients, and consumption occasions."
+    },
+    "Business_Problem_8": {
+        "id": "Business_Problem_8",
+        "name": "Supply_Chain_Resilience",
+        "original_title": "Supply Chain Resilience",
+        "background_context": "A manufacturing company sources raw materials and components from various suppliers located in multiple countries. Recent global events have highlighted the need to enhance the resilience and ethical standards of its supply chain to minimize disruptions and ensure responsible sourcing.",
+        "business_problem": "Propose strategies and actions to improve the resilience and ethical considerations within a global supply chain that involves sourcing from diverse international locations."
+    }
+}
