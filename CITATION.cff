@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+  - family-names: "Hariri"
+    given-names: "Youssef"
+    # Add other authors here if you have them
+title: "Measuring and Explaining Creativity in Large Language Models: A Mixed-Methods Investigation into the Effect of Cultural Persona Prompts on Business Solution Generation"
+version: v1.0.0
+doi: 10.5281/zenodo.17407393
+repository-code: "https://github.com/youssef-hariri/LLM-Creativity-"
+date-released: 2025-10-21
