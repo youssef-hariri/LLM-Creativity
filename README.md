@@ -13,8 +13,8 @@ The files are organized into three categories:
 
 ## 📜 The Paper
 
-* ** `business_problems_data.json Measuring and Explaining Creativity in LLMs - Hariri Youssef.pdf` **
-    
+* **`Measuring and Explaining Creativity in LLMs - Hariri Youssef.pdf`**
+    * The paper (preprint PDF).
 ---
 
 ## 1. Input Data
@@ -57,7 +57,7 @@ This folder shows the iterative refinement of the prompt used to *evaluate* the 
 * **`selected_solutions_for_qualitative_study.csv`**
     * A subset of the main dataset, this CSV lists the specific solutions that were selected for the in-depth qualitative (human) analysis.
 
-* **`selected_solutions_justifications_qualitative_study.csv`** (The corrected filename)
+* **`selected_solutions_justifications_qualitative_study.csv`**
     * The results of the qualitative analysis. This file contains the human-provided justifications, coding, and analysis for the solutions listed above.
 
 ---
