@@ -62,6 +62,13 @@ This folder shows the iterative refinement of the prompt used to *evaluate* the 
 
 ---
 
+## 4. Reliability Analysis (ICC Reproduction)
+
+* **`reliability_analysis/`**
+    * Contains the underlying judge scores, the stratified sample ID lists, and a self-contained reproduction script (`reproduce_icc.py`) for every inter-rater reliability value printed in the paper: the main reliability paragraph (70-solution sample) and Tables 3 and 5 (prompt optimization rounds, 30-solution samples each). Run `python reproduce_icc.py` (requires only `pandas` and `numpy`) to recompute all Fleiss' kappa and ICC values and verify them against the paper. See `reliability_analysis/README.md` for the provenance of each printed value, including a note on the ICC variants used.
+
+---
+
 ## How to Cite
 ```bibtex
 @software{youssef_hariri_2025_17407392,
